@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/matiasgarciajohannesen/npm/issues"
   },
-  "homepage": "https://github.com/matiasgarciajohannesen/npm#readme"
+  "homepage": "https://github.com/matiasgarciajohannesen/npm#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.0",
+    "@babel/preset-es2015": "^7.0.0-beta.53"
+  }
 }
